@@ -10,7 +10,7 @@ The answer to each prompt is located in 3 different modules from the project.
 - For Task Prompt No.2 -> located in [sqllite](https://github.com/farhan3001/ISTGSTest/tree/main/sqllite) module
 - For Task Prompt No.3 -> located in [backgroundservice](https://github.com/farhan3001/ISTGSTest/tree/main/backgroundservice) module
 
-Additionally, the test result for each module can be seen from "result" folder in each module.
+Additionally, the test result can be seen through the "result" folder in each module.
 
 To run the project modules, kindly follow these steps:
 1. Clone this repository using the command `https://github.com/farhan3001/ISTGSTest.git`
