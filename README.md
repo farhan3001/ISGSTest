@@ -5,7 +5,7 @@
 
 This is a GitHub repository for all my answer related to ISGS Test Prompt provided [here](https://docs.google.com/document/d/1qH3J3uGZxsSrRQsTMQC9_mDLEn0AAMvV/edit?usp=sharing&ouid=110237131351742874102&rtpof=true&sd=true) for the Mobile Developer position.
 
-The answer to each prompt lies in 3 different modules from the project.
+The answer to each prompt is located in 3 different modules from the project.
 - For Task Prompt No.1 -> located in [restapi](https://github.com/farhan3001/ISTGSTest/tree/main/restapi) module
 - For Task Prompt No.2 -> located in [sqllite](https://github.com/farhan3001/ISTGSTest/tree/main/sqllite) module
 - For Task Prompt No.3 -> located in [backgroundservice](https://github.com/farhan3001/ISTGSTest/tree/main/backgroundservice) module
