@@ -12,7 +12,7 @@ The answer to each prompt lies in 3 different modules from the project.
 
 Additionally, the test result for each module can be seen from "result" folder in each module.
 
-To download the APK, kindly follow these steps:
+To run the project modules, kindly follow these steps:
 1. Clone this repository using the command `https://github.com/farhan3001/ISTGSTest.git`
 2. Open the project through Android Studio or any preferred IDE
 3. Run each of the module using an Emulator  
